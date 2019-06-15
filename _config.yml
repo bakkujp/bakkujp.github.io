@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: ForTheLoveOfCoding
-subtitle:
-description: .NET, .NET Core, ...
-keywords:
+title: For The Love Of Coding
+subtitle: Love coding, Love engineering, love architecturing
+description: .NET, .NET Core, Java, Software Architecture...
+keywords: bakkujp
 author: Bach Phan
-language:
-timezone:
+language: en-EN
+timezone: Asia/Jakarta
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://bakkujp.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
