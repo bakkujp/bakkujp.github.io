@@ -73,6 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
+### Source: $ git submodule add {theme-github-url} themes/{theme-name}
 theme: minos
 
 # Deployment
