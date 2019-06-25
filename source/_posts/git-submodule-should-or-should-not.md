@@ -12,5 +12,6 @@ Phải nói rằng, git thực sự là một công cụ tuyệt vời trong vi�
 
 ## Tham khảo
 
-1. https://dominhhai.github.io/vi/2017/09/git-submodule-multi-repo/
-2. 
+1. https://git-scm.com/docs/git-submodule
+2. https://dominhhai.github.io/vi/2017/09/git-submodule-multi-repo/
+3. https://www.vogella.com/tutorials/GitSubmodules/article.html
