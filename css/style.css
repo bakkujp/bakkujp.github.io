@@ -17,7 +17,8 @@ a.tag.article-tag {
 
 .navbar-main {
   border-bottom: 1px solid #dbdbdb;
-  transition: 0.1s ease-in; }
+  transition: 0.1s ease-in;
+  background-color: #e8e8e8; }
   .navbar-main .navbar-logo {
     font-size: 1.5rem;
     font-weight: 600; }
