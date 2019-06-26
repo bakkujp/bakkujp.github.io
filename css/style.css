@@ -34,7 +34,8 @@ a.tag.article-tag {
   border-top: 1px solid #dbdbdb; }
 
 .article .article-title a {
-  font-family: "EB Garamond", serif; }
+  font-family: "EB Garamond", serif;
+  text-transform: uppercase; }
 
 .article .article-title a,
 .article .article-meta a {
@@ -42,7 +43,7 @@ a.tag.article-tag {
   border-bottom: 1px dotted transparent; }
   .article .article-title a:hover,
   .article .article-meta a:hover {
-    border-bottom-color: black; }
+    border-bottom-color: #05772b; }
 
 .article .article-meta {
   font-size: .65rem;
