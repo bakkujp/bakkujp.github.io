@@ -43,7 +43,7 @@ a.tag.article-tag {
   border-bottom: 1px dotted transparent; }
   .article .article-title a:hover,
   .article .article-meta a:hover {
-    border-bottom-color: #05772b; }
+    border-bottom-color: black; }
 
 .article .article-meta {
   font-size: .65rem;
