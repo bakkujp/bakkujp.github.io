@@ -8,7 +8,7 @@ If you are one of the dark-mode faithful, this article will be actually meaningf
 
 Well, how to get the dark-mode for entire website browsing on Chrome? There is an easy way by using Chrome browser extension  no one also know. It is Dark Reader extension from Chrome Web Store. First of all, install [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh). This extension is occurred in the icon bar of Chrome. See the following image.
 
-![](D:\Repos\BlogForTheLoveOfCoding\source\_posts\If-you-are-one-of-the-dark-mode-faithful\DarkReader.png) 
+![](./DarkReader.png) 
 
 This extension lets to set a dark style to every web pages you visit. You can do this by clicking the Dark Reader icon on the toolbar. We also can toggle the mode by click ON/OFF button. With some option in the pulldown menu, you can adjust brightness, contrast, ... on the filter tab. Easy huh? Have fun with Dark Reader.
 
