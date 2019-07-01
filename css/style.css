@@ -22,6 +22,11 @@ a.tag.article-tag {
   .navbar-main .navbar-logo {
     font-size: 1.5rem;
     font-weight: 600; }
+  .navbar-main .navbar-logo-text {
+    font-family: "consolas", serif;
+    text-transform: uppercase; }
+    .navbar-main .navbar-logo-text .navbar-logo-text-icon {
+      color: red; }
   .navbar-main .navbar-item {
     text-align: center; }
   .navbar-main a.navbar-item.is-active {
